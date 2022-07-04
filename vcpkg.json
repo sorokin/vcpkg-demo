@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "vcpkg-demo",
+  "version": "0.1",
+  "dependencies": [
+    "assimp",
+    "glad",
+    "glfw3",
+    "glm",
+    "boost-nowide",
+    "boost-stacktrace",
+    "boost-thread"
+  ]
+}
